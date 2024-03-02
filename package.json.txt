@@ -1,0 +1,28 @@
+{
+  "name": "testprojem",
+  "version": "1.0.2",
+  "description": "yamtarlee test project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/yamtarlee/testprojem.git"
+   },
+    "keywords": [
+    "test",     
+    "proje",    
+    "yamtarlee"     
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "Yamtar",  
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamtarlee/testprojem/issues"
+  },
+  "homepage": "https://github.com/yamtarlee/testprojem#readme"
+}
